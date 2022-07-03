@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260326898716",
+    "project_id": "flash-chat-c3711",
+    "storage_bucket": "flash-chat-c3711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260326898716:android:319785b30a4df5111af3d9",
+        "android_client_info": {
+          "package_name": "com.afreen.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260326898716-6smhu469j35d105t3tdeogpf872rsif7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaQd6J_ruT91Dr2TZhUSEVrgxuCfq_KrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260326898716-6smhu469j35d105t3tdeogpf872rsif7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
